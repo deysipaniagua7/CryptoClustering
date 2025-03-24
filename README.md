@@ -13,9 +13,9 @@ In this challenge, we were asked to use our Python and unsupervised learning kno
 -Visualize and Compare the Results-
 
 ### **The main “CryptoClustering” repo contains the following files and subfolders:**
-1.**“Crypto_Clustering.ipynb” file** which holds my challenge code
-2. **“.vscode” subfolder** which holds a “settings.json” file
-3. **“Resources” subfolder** which holds the “crypto_market_data.csv” dataset
+1. **“Crypto_Clustering.ipynb” file** which holds my challenge code.
+2. **“.vscode” subfolder** which holds a “settings.json” file.
+3. **“Resources” subfolder** which holds the “crypto_market_data.csv” dataset.
 
 ##Please note, I used in-class activities/notes to complete the challenge. 
 
