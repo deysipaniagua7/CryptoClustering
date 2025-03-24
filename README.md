@@ -16,5 +16,5 @@ In this challenge, we were asked to use our Python and unsupervised learning kno
 2. **“.vscode” subfolder** which holds a “settings.json” file.
 3. **“Resources” subfolder** which holds the “crypto_market_data.csv” dataset.
 
-##Please note, I used in-class activities/notes to complete the challenge. 
+Please note, I used in-class activities/notes to complete the challenge. 
 
