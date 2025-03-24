@@ -12,7 +12,7 @@ In this challenge, we were asked to use our Python and unsupervised learning kno
 -Cluster the Cryptocurrencies with K-means by Using the PCA DataFrame
 -Visualize and Compare the Results-
 
-## **The main “CryptoClustering” repo contains the following files and subfolders:**
+### **The main “CryptoClustering” repo contains the following files and subfolders:**
 1.**“Crypto_Clustering.ipynb” file** which holds my challenge code
 2. **“.vscode” subfolder** which holds a “settings.json” file
 3. **“Resources” subfolder** which holds the “crypto_market_data.csv” dataset
